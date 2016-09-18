@@ -4,13 +4,14 @@ from scraper import FreeFoodScraper
 from location_service import PrincetonBuildingLatLng
 from dateutil import parser
 
-food = FreeFoodScraper()
 locations = PrincetonBuildingLatLng()
 app = Flask(__name__)
 api = restful.Api(app)
 
 class FreeFoodServer(restful.Resource):
     def get(self):
+        food = FreeFoodScraper()
+
         listings = food.get_all()
         print 'Found', len(listings), 'listings'
         for listing in listings:
