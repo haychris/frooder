@@ -1,0 +1,1837 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>LISTSERV 16.0 - FREEFOOD Archives - September 2016</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #3366CC;
+  text-decoration: none
+}
+p.archive {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+p.archive a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #3366CC;
+  text-decoration: none
+}
+p.archive a:visited {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #663399;
+  text-decoration: none
+}
+p.bloghead {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+p.bloghead a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #3366CC;
+  text-decoration: none
+}
+p.blogdate {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #999999
+}
+p.blogcontent {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+pre.blogcontent {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000;
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+  word-wrap:break-word;
+  _white-space:pre;   /* IE only hack to re-specify in addition to word-wrap  */
+}
+p.blogsmall {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #000000
+}
+p.blogsmall a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #3366CC;
+  text-decoration: none
+}
+.blogtop {
+  background-image: url("/archives/images/b-boxbluetopblog.jpg");
+  background-position: top;
+  background-repeat: repeat-x;
+  background-color: #809FE0;
+  border-right: #999999 1px solid;
+  border-top: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-bottom: #999999 1px solid
+}
+.blogtoph {
+  background-image: url("/archives/images/b-boxbluetopblog.jpg");
+  background-position: top;
+  background-repeat: repeat-x;
+  background-color: #809FE0;
+  border-right: #999999 1px solid;
+}
+.blogbox {
+  background-color: #FFFFFF;
+  border-right: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-bottom: #999999 1px solid
+}
+textarea, input, select {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+input.search {
+  border: #999999 solid 1px;
+  background-image: url("/archives/images/b-mglass.png");
+  background-repeat: no-repeat;
+  background-color: #FFFFFF;
+  background-position: right
+}
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #000000
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  color: #CC0033;
+  margin: 0pt
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  color: #CC0033;
+  margin: 0pt
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #3366CC;
+  margin: 0pt
+}
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin: 0pt
+}
+h4 a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin: 0pt
+}
+th {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin: 0pt
+}
+th a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin: 0pt
+}
+p.small {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #000000
+}
+p.smallheader {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #FFFFFF
+}
+tt {
+  font-size: 13px;
+}
+pre {
+  font-size: 13px;
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+  _white-space: normal; /* Additional IE Adjustment */
+}
+.tableframe {
+  border-right: #999999 1px solid;
+  border-top: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-bottom: #999999 1px solid
+}
+.tableframeinv {
+  border-right: #F1F4FA 1px solid;
+  border-top: #F1F4FA 1px solid;
+  border-left: #F1F4FA 1px solid;
+  border-bottom: #F1F4FA 1px solid
+}
+.emphasizedcell {
+  background-image: url("/archives/images/b-boxbluetopblog.jpg");
+  background-position: top;
+  background-repeat: repeat-x;
+  background-color: #809FE0
+}
+.emphasizedgroup {
+  background-color: #F1F4FA
+}
+.normalgroup {
+  background-color: #FFFFFF
+}
+.headergroup {
+  background-color: #C4CDDE
+}
+.cardcolor {
+  background-color: #F1F4FA
+}
+.reply {
+  font-family: Arial, Helvetica, sans-serif
+}
+.error {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #CC3333
+}
+.message {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #3333FF
+}
+.green {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #009900
+}
+.grey {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #999999
+}
+.subindent {
+  text-indent:50px
+}
+.listselframe {
+  background-image: url("/archives/images/b-listselback.jpg");
+  background-repeat: repeat-x;
+  background-color: #FFFFFF;
+  background-position: bottom;
+  border-right: #999999 1px solid;
+  border-top: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-bottom: #999999 1px solid
+}
+.tutorialframe {
+  background-color: #FFFFFF;
+}
+.bargraph {
+  background-image: url('/archives/images/b-bargraph.jpg');
+  background-color: #26A026;
+  background-repeat: repeat-x;
+  background-position: center left
+}
+.boxtop {
+  background-image: url("/archives/images/b-boxbluetop.jpg");
+  background-position: top;
+  background-repeat: repeat-x;
+  background-color: #BDCDEF;
+  border-right: #999999 1px solid;
+  border-top: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-bottom: #999999 1px solid
+}
+.boxback {
+  background-image: url("/archives/images/b-boxback.jpg");
+  background-position: bottom;
+  background-repeat: repeat-x;
+  background-color: #FFFFFF;
+  border-right: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-bottom: #999999 1px solid
+}
+hr {
+  width:100%;
+  height:1px;
+  color:#999999;
+  border-style: solid;
+  border-color: #999999;
+  border-width: 1px 0px 0px 0px;
+  padding-top:1px;
+  padding-bottom:1px
+}
+.SPF_red {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #CC3333
+}
+.SPF_orange {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #FF9933
+}
+.SPF_green {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #336633
+}
+.SPF_error {
+  font-weight: bold;
+  color: #CC3333
+}
+.SPF_match {
+  font-weight: bold;
+  color: #3333FF
+}
+.SPF_comment {
+  font-weight: bold;
+  color: #3333FF
+}
+.userRole {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #3366CC
+}
+.titleBorderTop {
+  border-top: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-right: #999999 1px solid
+}
+.pulldownMenuTopLevel {
+  background-image: url("/archives/images/b-menuback.jpg");
+  background-repeat: repeat-x;
+  background-color: #FFFFFF;
+  background-position: bottom;
+  border-top: #999999 1px solid;
+  border-bottom: #999999 1px solid;
+  border-left: #999999 1px solid;
+  border-right: #999999 1px solid
+}
+.pulldownMenuInner {
+  background-color: #F1F4FA;
+  border: #999999 1px solid
+}
+.pulldownMenuItem {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #3366CC;
+  padding-top: 4;
+  padding-bottom: 4;
+  padding-left: 5;
+  padding-right: 5;
+  cursor: pointer
+}
+.pulldownMenuItemHighlight {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #3366CC;
+  padding-top:4;
+  padding-bottom: 4;
+  padding-left: 5;
+  padding-right: 5;
+  cursor: pointer;
+  background-color: #B6B9CA
+}
+.pulldownMenuItemSpec {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #3366CC;
+  cursor: pointer
+}
+.pulldownMenuItemSpecHighlight {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #3366CC;
+  cursor: pointer;
+  background-color: #B6B9CA
+}
+.pulldownMenuItem a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #3366CC;
+  text-decoration: none
+}
+.pulldownMenuItem a:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #3366CC;
+  text-decoration: none;
+  background-color: #B6B9CA
+}
+.pulldownMenuSeparator {
+  border-top: #999999 1px solid
+}
+.pulldownMenuDropShadowRight {
+  width: 5;
+  background: url("/archives/images/b-menudropshadow.png") no-repeat top right
+}
+.pulldownMenuDropShadowBottom {
+  height: 5;
+  background: url("/archives/images/b-menudropshadow.png") no-repeat bottom left
+}
+.pulldownMenuDropShadowCorner {
+  width: 5;
+  height: 5;
+  background: url("/archives/images/b-menudropshadow.png") no-repeat bottom right
+}
+.pulldownMenuArrow {
+  width: 9;
+  height: 9;
+  background: url("/archives/images/b-menuarrow.png") no-repeat center
+}
+.pulldownMenuArrowDown {
+  width: 12;
+  height: 9;
+  background: url("/archives/images/b-menuarrowdown.png") no-repeat center
+}
+</style>
+<!--[if lt ie 7]>
+<style type="text/css">
+.pulldownMenuDropShadowRight {
+  width:3;
+  background: url("/archives/images/b-menudropshadow.gif") no-repeat top right
+}
+.pulldownMenuDropShadowBottom {
+  height:3;
+  background: url("/archives/images/b-menudropshadow.gif") no-repeat bottom left
+}
+.pulldownMenuDropShadowCorner {
+  width:3;
+  height:3;
+  background: url("/archives/images/b-menudropshadow.gif") no-repeat bottom right
+}
+.pulldownMenuArrowDown {
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/archives/images/b-menuarrowdown.png", sizingMethod="image");
+  background: none
+}
+.pulldownMenuArrowForOldIE {
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/archives/images/b-menuarrow.png", sizingMethod="image");
+  background: none
+}
+</style>
+<![endif]-->
+
+
+<script language="javascript" type="text/javascript">
+var menuCurrentlyOpen = new Array();
+var menuCurrentlyInsideID;
+var menuCurrentlyInsideIsTopLevel;
+var menuCurrentlyInsideLevel
+var menuItemCurrentlyInsideID;
+var menusReady;
+var req;
+
+
+
+function isOldIE() {
+    if (navigator.appName == 'Microsoft Internet Explorer') {
+        var ua = navigator.userAgent;
+        var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+        if (re.exec(ua) != null)
+            return parseFloat( RegExp.$1 ) < 7.0;
+    }
+    return false;
+}
+
+function menuInitPosition() {
+  var oldIE = isOldIE();
+
+
+
+
+  menusReady = true;
+}
+
+function menuMouseDown() {
+  if (!menusReady)
+  return;
+  if (menuCurrentlyInsideID != null) {
+  // Mouse clicked inside of menu-title
+  if (menuCurrentlyInsideIsTopLevel) {
+  // menu-title is in top level menu
+  if (menuCurrentlyOpen[0] == null) {
+  // Currently no menu open: Open the clicked menu
+  menuCurrentlyOpen[0] = document.getElementById(menuCurrentlyInsideID);
+  menuCurrentlyOpen[0].style.visibility = "visible";
+  } else {
+  // Currently a menu already open: Close it, but leave the current menu-title highlighted
+  menuHide(0);
+  menuHighlight(menuCurrentlyInsideID, true);
+  }
+  }
+  } else {
+  // Mouse clicked outside of a menu-title: Close any open menus
+  menuHide(0);
+  }
+  // Mouse clicked inside of menu item: Execute this item
+  switch (menuItemCurrentlyInsideID) {
+  case "sub" :
+  self.location.href="/cgi-bin/wa?REPORT&z=3&s=0&9=O&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu";
+  break;
+  case "lists" :
+  self.location.href="/cgi-bin/wa?INDEX&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu";
+  break;
+  case "prefs" :
+  self.location.href="/cgi-bin/wa?PREF&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu";
+  break;
+  case "login" :
+  self.location.href="/cgi-bin/wa?LOGON&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu";
+  break;
+  case "logout" :
+  self.location.href="/cgi-bin/wa?RESET-COOKIE&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu";
+  break;
+  }
+}
+
+function menuIn(level, menuID) {
+  menuHighlight(menuID, true);      // highlight the current menu-title
+  menuCurrentlyInsideID = menuID;      // remember which one this is
+  menuCurrentlyInsideIsTopLevel = level == 0;
+  menuCurrentlyInsideLevel = level;
+  if (level > 0 || menuCurrentlyOpen[0] != null) {
+  // Currently a menu already open: Check which one this is
+  menuCurrentlyInside = document.getElementById(menuCurrentlyInsideID);
+  if (menuCurrentlyInside != menuCurrentlyOpen[level]) {
+  // Currently open menu is a different one: Close it, and open the current menu instead
+  menuHide(level);
+  menuCurrentlyOpen[level] = menuCurrentlyInside;
+  menuCurrentlyOpen[level].style.visibility = "visible";
+  }
+  }
+}
+
+function menuOut(level, menuID) {
+  if (menuCurrentlyOpen[level] == null)    // if no menu is currently open:
+  menuHighlight(menuID, false);     // remove its highlight
+  menuCurrentlyInsideID = null;      // remember that we are now not 'inside' of a menu-title
+}
+
+function menuItemIn(level, menuItemID) {
+  menuHighlight(menuItemID, true);     // highlight current menu-item
+  menuItemCurrentlyInsideID = menuItemID;    // remember which one this is
+  menuCurrentlyInsideLevel = level;
+  if (level > 0 & menuCurrentlyOpen[level] != null) {
+  // If not on top-level and currently a menu open: Close it
+  menuHide(level);
+  }
+}
+
+function menuItemOut(level, menuItemID) {
+  menuHighlight(menuItemID, false);     // remove highlight of menu-item
+  menuItemCurrentlyInsideID = null;     // remember that we are now not 'inside' of a menu-item
+}
+
+function menuHide(level) {
+  if (menuCurrentlyOpen[level] != null) {
+  // If a menu is open: remove highlight and close it and all sub-menus
+  menuHighlight(menuCurrentlyOpen[level].id, false);
+  menuCurrentlyOpen[level].style.visibility = "hidden";
+  menuCurrentlyOpen[level] = null;
+  menuHide(level + 1);
+  }
+}
+
+function menuHighlight(menuItemID, highlightOn) {
+  if (highlightOn) {
+  document.getElementById(menuItemID + ".cell").className = "pulldownMenuItemHighlight";
+  switch (menuItemID) {
+  case "admn" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemSpecHighlight";
+  break;
+  case "admn.dashboard" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_config" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_config.siteconfig" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_config.deliverability" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_list" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_list.create" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_list.delete" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_rep" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_rep.stat" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_rep.av" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_rep.log" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_custom" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_custom.temp" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn_custom.mail" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn.mm" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "admn.lsvcommand" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemSpecHighlight";
+  break;
+  case "mgmt.dashboard" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_config" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_config.basic" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_config.wiz" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_config.alpha" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_config.expert" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_rep" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_rep.rep" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_rep.sub" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_rep.log" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_custom" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_custom.temp" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt_custom.mail" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt.subs" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt.mm" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  case "mgmt.command" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemHighlight";
+  break;
+  }
+  } else {
+  document.getElementById(menuItemID + ".cell").className = "pulldownMenuItem";
+  switch (menuItemID) {
+  case "admn" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemSpec";
+  break;
+  case "admn.dashboard" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_config" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_config.siteconfig" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_config.deliverability" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_list" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_list.create" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_list.delete" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_rep" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_rep.stat" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_rep.av" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_rep.log" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_custom" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_custom.temp" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn_custom.mail" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn.mm" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "admn.lsvcommand" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItemSpec";
+  break;
+  case "mgmt.dashboard" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_config" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_config.basic" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_config.wiz" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_config.alpha" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_config.expert" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_rep" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_rep.rep" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_rep.sub" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_rep.log" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_custom" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_custom.temp" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt_custom.mail" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt.subs" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt.mm" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  case "mgmt.command" :
+  document.getElementById(menuItemID + "sub" + ".cell").className = "pulldownMenuItem";
+  break;
+  }
+  }
+}
+
+function menuGetLeft(menuObj) {
+  menuLeftPos = 0;
+  while (menuObj) {
+  if (menuObj.offsetLeft)
+  menuLeftPos += menuObj.offsetLeft;
+  menuObj = menuObj.offsetParent;
+  }
+  return menuLeftPos;
+}
+
+function menuGetTop(menuObj) {
+  menuTopPos = 0;
+  while (menuObj) {
+  if (menuObj.offsetTop)
+  menuTopPos += menuObj.offsetTop;
+  menuObj = menuObj.offsetParent;
+  }
+  return menuTopPos;
+}
+
+// Provide the XMLHttpRequest class for IE 5.x-6.x:
+if( typeof XMLHttpRequest == "undefined" ) XMLHttpRequest = function() {
+  try { return new ActiveXObject("Msxml2.XMLHTTP.6.0") } catch(e) {}
+  try { return new ActiveXObject("Msxml2.XMLHTTP.3.0") } catch(e) {}
+  try { return new ActiveXObject("Msxml2.XMLHTTP") } catch(e) {}
+  try { return new ActiveXObject("Microsoft.XMLHTTP") } catch(e) {}
+  throw new Error( "This browser does not support XMLHttpRequest." )
+};
+
+function loadXMLDoc(url, reqfunc) {
+  req = false;
+  try {
+    req = new XMLHttpRequest();
+  } catch(e) {
+    req = false;
+  }
+
+  if(req) {
+  if (reqfunc) req.onreadystatechange = reqfunc;
+  else req.onreadystatechange = processReqChange;
+  req.open("GET", url, true);
+  req.send("");
+  }
+}
+
+function postXMLDoc(url, params, reqfunc) {
+  req = false;
+  try {
+    req = new XMLHttpRequest();
+  } catch(e) {
+    req = false;
+  }
+
+  if(req) {
+  if (reqfunc) req.onreadystatechange = reqfunc;
+  req.open("POST", url, true);
+  req.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=UTF-8");
+  req.setRequestHeader("Content-length", params.length);
+  req.setRequestHeader("Connection", "close");
+  req.send(params);
+  }
+}
+
+function get_firstchild(n) {
+  x=n.firstChild;
+  while (x.nodeType!=1) {
+    x=x.nextSibling;
+  }
+  return x;
+}
+
+function subform() {
+   document.forms[0].submit();
+}
+
+function windowUp(URL,h) {
+   day = new Date();
+   id = day.getTime();
+   window.open (URL, id,'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=yes,width=775,height=' + h + ' ');
+}
+
+function popUp(URL,w,h) {
+   id = 'popup';
+   if (screen.width) {
+   width =  screen.width - 200
+   } else {
+   width =  w
+   }
+   if (screen.height) {
+   height = screen.height - 200
+   } else {
+   height = h
+   }
+   window.open (URL, id,'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=yes,width=' + width + ',height=' + height + ' ');
+}
+
+function confirmOpt(prompt) {
+   input_box=confirm(prompt);
+   if (input_box==true) {
+   return true;
+   } else {
+   return false;
+   }
+}
+
+function getMouse(e) {
+   var posx;
+   var posy;
+   var ev=(!e)?window.event:e;
+   if (ev.pageX) {
+   posx=ev.pageX;
+   posy=ev.pageY;
+   }
+   else if(ev.clientX) {
+   posx=ev.clientX;
+   posy=ev.clientY+document.body.scrollTop;
+   }
+   else {
+   return false;
+   }
+
+   if (document.getElementById("listdesc")) {
+   if ((posy + document.getElementById("listdesc").offsetHeight) > (document.body.clientHeight + document.body.scrollTop)) {
+   if (document.getElementById("listdesc").offsetHeight > document.body.clientHeight) {
+   document.getElementById("listdesc").style.top = document.body.scrollTop + 10;
+   } else {
+   document.getElementById("listdesc").style.top = document.body.clientHeight - document.getElementById("listdesc").offsetHeight - 10 + document.body.scrollTop;
+   }
+   } else {
+   document.getElementById("listdesc").style.top = posy;
+   }
+   document.getElementById("listdesc").style.left = (posx+20);
+   }
+}
+
+function showDesc(desc,listname,listtitle) {
+   document.getElementById("listdesc").innerHTML = "<table cellpadding='0' cellspacing='0' border='0'><tr><td valign='bottom' align='right'><img src='/archives/images/b-boxcorner_1.png' width='16' height='16' alt=''></td><td valign='bottom' background='/archives/images/b-boxtop.png'><img src='/archives/images/b-blank.gif' height='16' width='16' alt=''></td><td valign='bottom' align='left'><img src='/archives/images/b-boxcorner_2.png' width='16' height='16' alt=''></td></tr><tr><td background='/archives/images/b-boxleft.png' align='right'><img src='/archives/images/b-blank.gif' height='16' width='16' alt=''></td><td valign='top' align='left'><table width='100%' cellspacing='0' cellpadding='5' border='0' class='tableframe'><tr><td valign='top' class='normalgroup'><table width='100%'><tr><td><p><b>" + listname + "</b></p></td></tr><tr><td><p>" + listtitle + "</p></td></tr><tr><td><hr></td></tr><tr><td>" + desc + "<br></td></tr></table></td></tr></table></td><td background='/archives/images/b-boxright.png' align='left'><img src='/archives/images/b-blank.gif' height='16' width='16' alt=''></td></tr><tr><td valign='top' align='right'><img src='/archives/images/b-boxcorner_3.png' width='16' height='16' alt=''></td><td background='/archives/images/b-boxbottom.png' valign='top'><img src='/archives/images/b-blank.gif' width='16' height='16' alt=''></td><td valign='top' align='left'><img src='/archives/images/b-boxcorner_4.png' width='16' height='16' alt=''></td></tr></table>";
+   document.getElementById("listdesc").style.width = 600;
+
+   if ((document.getElementById("listdesc").style.top + document.getElementById("listdesc").offsetHeight) > (document.body.clientHeight + document.body.scrollTop)) {
+   if (document.getElementById("listdesc").offsetHeight > document.body.clientHeight) {
+   document.getElementById("listdesc").style.top = document.body.scrollTop + 10;
+   } else {
+   document.getElementById("listdesc").style.top = document.body.clientHeight - document.getElementById("listdesc").offsetHeight - 10 + document.body.scrollTop;
+   }
+   }
+   document.getElementById("listdesc").style.visibility = "visible";
+}
+
+function hideDesc() {
+   document.getElementById("listdesc").innerHTML = "";
+   document.getElementById("listdesc").style.width = 1;
+   document.getElementById("listdesc").style.visibility = "hidden";
+}
+
+</script>
+<script language="javascript" type="text/javascript">
+</script>
+<link rel="alternate" type="application/rss+xml" title="FREEFOOD - RSS 1.0" href="/cgi-bin/wa?RSS&L=freefood&v=1.0">
+<link rel="alternate" type="application/rss+xml" title="FREEFOOD - RSS 2.0" href="/cgi-bin/wa?RSS&L=freefood&v=2.0">
+<link rel="alternate" type="application/atom+xml" title="FREEFOOD - Atom 1.0" href="/cgi-bin/wa?RSS&L=freefood&v=ATOM1.0">
+</head>
+<body onload="menuInitPosition()" onresize="menuInitPosition()" onmousedown="menuMouseDown()" onmousemove="getMouse(event)">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<table cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td class="userRole">
+<a href="#SKIPNAVLINKS"><img src="/archives/images/b-blank.gif" alt="Skip repetitive navigational links" width="1" height="1" border="0"></a>
+Logged in as: chay@princeton.edu
+</td>
+</tr>
+</table>
+</td>
+<td align="right">
+<table cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td class="userRole">
+<a href="/cgi-bin/wa?PREF&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Basic Mode</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="titleBorderTop">
+<colgroup>
+<col width="30">
+<col width="*">
+<col width="275">
+</colgroup>
+<tr>
+<td background="/archives/images/b-middle.jpg"><a href="http://www.lsoft.com" target="_blank"><img src="/archives/images/b-listserv.jpg" alt="LISTSERV mailing list manager" title="LISTSERV mailing list manager" border="0"></a></td>
+<td background="/archives/images/b-middle.jpg"><a href="/cgi-bin/wa?INDEX&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-version.jpg" alt="LISTSERV 16.0" title="LISTSERV 16.0" border="0"></a></td>
+<td background="/archives/images/b-right.jpg" align="right">
+<p><a href="/cgi-bin/wa?SHOWTPL=HELP-A1&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu" target="_help"><img src="/archives/images/b-help.gif" alt="Help for FREEFOOD Archives" title="Help for FREEFOOD Archives" border="0" style="margin:2 5 0 0"></a></p>
+</td>
+</tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="pulldownMenuTopLevel" id="menuBar">
+<tr>
+<td id="sub.cell" onmouseover="menuItemIn(0, 'sub')" onmouseout="menuItemOut(0, 'sub')" class="pulldownMenuItem" nowrap>
+<NOSCRIPT>
+<a href="/cgi-bin/wa?REPORT&z=3&s=0&9=O&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">
+</NOSCRIPT>
+Subscriber's Corner
+<NOSCRIPT>
+</a>
+</NOSCRIPT>
+</td>
+<td id="lists.cell" nowrap onmouseover="menuItemIn(0, 'lists')" onmouseout="menuItemOut(0, 'lists')" class="pulldownMenuItem" nowrap>
+<NOSCRIPT>
+<a href="/cgi-bin/wa?INDEX&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">
+</NOSCRIPT>
+Email Lists
+<NOSCRIPT>
+</a>
+</NOSCRIPT>
+</td>
+<td width="100%"></td>
+<td id="prefs.cell" onmouseover="menuItemIn(0, 'prefs')" onmouseout="menuItemOut(0, 'prefs')" class="pulldownMenuItem" nowrap>
+<NOSCRIPT>
+<a href="/cgi-bin/wa?PREF&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">
+</NOSCRIPT>
+Preferences
+<NOSCRIPT>
+</a>
+</NOSCRIPT>
+</td>
+<td id="logout.cell" onmouseover="menuItemIn(0, 'logout')" onmouseout="menuItemOut(0, 'logout')" class="pulldownMenuItem" nowrap>
+<NOSCRIPT>
+<a href="/cgi-bin/wa?RESET-COOKIE&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">
+</NOSCRIPT>
+Log Out
+<NOSCRIPT>
+</a>
+</NOSCRIPT>
+</td>
+</tr>
+</table>
+<br>
+<table width="100%" cellpadding="5" cellspacing="0">
+<tr>
+<td width="64"><img src="/archives/images/b-archiveicon.gif" alt="FREEFOOD Archives" title="FREEFOOD Archives"></td>
+<td width="100%" nowrap>
+<h2>FREEFOOD Archives
+</h2>
+</td>
+</tr>
+</table>
+<br>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="tableframe">
+<tr>
+<td class="emphasizedgroup">
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+<tr><td width="80%" valign="top">
+<h2> September 2016</h2>
+<br>
+<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td width="10%" valign="top" nowrap><p><b>View:</b></p></td>
+<td width="90%" valign="top"><p>
+Show Author | <a href="/cgi-bin/wa?A1=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&O=T&H=1&D=0&T=1">Hide Author</a>
+<br>
+Show Table of Contents | <a href="/cgi-bin/wa?A1=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&O=T&H=0&D=0&T=0">Hide Table of Contents</a>
+<br>
+</p></td>
+</tr>
+<tr><td colspan="2"><p>&nbsp;</p></td></tr>
+<tr>
+<td width="10%" valign="top" nowrap><p><b>Table of Contents:</b></p></td>
+<td width="90%" valign="top"><p>
+
+
+ <a href="#1">5 Cupcakes in Women's Center Lounge</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#2">&#60;No subject&#62;</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#3">Blessings from the chapel at Frist</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#4">Brioche buns, chocolate in Lakeside</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#5">Bubble tea in Campus Club living room!</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#6">Cookies and brownies at Carl Fields</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#7">Free Chicken Quesadillas and Hummus and Pita in Frist Gallery</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#8">Free food and BBQ in front of campus club</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#9">Free food in Friend lower atrium!</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#10">Free lunch in the CST StudioLab</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#11">Free pizzas in campus club</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#12">Freefood at Friend Center</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#13">Frist Campus Center</a>
+<i>(2 messages)</i><br>
+
+
+ <a href="#14">Hot dogs, hamburgers, pasta salad, sodas</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#15">Italian food in the Fields Center</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#16">Miscellaneous food and paper products</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#17">Olives donuts in Whitman Library</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#18">Pizza and Soda outside East Pyne 10</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#19">Pizza at campus club</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#20">Pizza in Frist</a>
+<i>(2 messages)</i><br>
+
+
+ <a href="#21">Pizza in Wilson Common Room</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#22">Pizza, Cookies, Salad and Snapple in Frist 307</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#23">Rice and Chicken Biryani in Forbes Kitchen</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#24">South Indian Food in Carl A. Fields!!</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#25">Vegetarian Lasagna</a>
+<i>(1 message)</i><br>
+
+
+ <a href="#26">Wings and Tenders Frist 100 lemonade</a>
+<i>(1 message)</i><br>
+
+</p></td>
+</tr>
+</table>
+</td>
+<td width="20%" valign="top" align="right">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><a href="/cgi-bin/wa?INDEX&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-folderhome.png" alt="LISTSERV Archives" title="LISTSERV Archives" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td nowrap><p class="bloghead"><a href="/cgi-bin/wa?INDEX&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">LISTSERV Archives</a></p></td>
+</tr>
+<tr>
+<td><a href="/cgi-bin/wa?A0=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-folder.png" alt="FREEFOOD Home" title="FREEFOOD Home" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td nowrap><p class="bloghead"><a href="/cgi-bin/wa?A0=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">FREEFOOD Home</a></p></td>
+</tr>
+</table>
+</td></tr>
+<tr><td width="80%" valign="top">
+<table width="100%" cellpadding="5" cellspacing="0" border="0" class="tableframe">
+<tr class="emphasizedcell">
+<td valign="top" width="35%" scope="col" nowrap>
+<h4 title="Sort by Subject"><a href="/cgi-bin/wa?A1=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&O=T&H=0&D=1&T=1">Subject</a> <img src="/archives/images/b-arrowup.gif" alt="Sorted by Subject, Chronologically" title="Sorted by Subject, Chronologically">
+</h4>
+</td>
+<td valign="top" width="25%" scope="col" nowrap>
+<h4 title="Sort by Author"><a href="/cgi-bin/wa?A1=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&O=A&H=0&D=0&T=1">From</a>
+</h4>
+</td>
+<td valign="top" width="25%" scope="col" nowrap>
+<h4 title="Sort by Date"><a href="/cgi-bin/wa?A1=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&O=D&H=0&D=0&T=1">Date</a>
+</h4>
+</td>
+<td valign="top" align="right" width="15%" scope="col" nowrap>
+<h4>Size</h4>
+</td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="1"></a><a href="#1">5 Cupcakes in Women's Center Lounge</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('And only five. They are Key Lime Pie flavored.&lt;br&gt;&lt;br&gt;Jordan Dixon&lt;br&gt;Program Coordinator&lt;br&gt;Princeton University Women*s Center&lt;br&gt;Pronouns: She, her, hers&lt;br&gt;&lt;br&gt;Princeton University&lt;br&gt;Frist Campus Center, Room 243&lt;br&gt;Princeton, NJ 08544&lt;br&gt;609.258.5565&lt;br&gt;women.princeton.edu&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','5 Cupcakes in Women\'s Center Lounge','Wed, 7 Sep 2016 20:59:53 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=3201">5 Cupcakes in Women's Center Lounge</a></span>
+</p></td>
+<td nowrap><p class="archive">Jordan E. Dixon &lt;jd15@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Wed, 7 Sep 2016 20:59:53 +0000</p></td>
+<td align="right" nowrap><p class="archive">140 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="2"></a><a href="#2">&lt;No subject&gt;</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Catered sandwiches and hummus in front of McCormick 106!!&lt;br&gt;&lt;br&gt;Sent from my iPhone&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','&lt;No subject&gt;','Tue, 13 Sep 2016 18:22:27 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=11479">&lt;No subject&gt;</a></span>
+</p></td>
+<td nowrap><p class="archive">Anne Kartheiser &lt;anneek@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Tue, 13 Sep 2016 18:22:27 -0400</p></td>
+<td align="right" nowrap><p class="archive">20 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="3"></a><a href="#3">Blessings from the chapel at Frist</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Just dropped off a lot of food at the Frist tables by the pool tables.&lt;br&gt;There\'s sandwiches, pastries bagels, muffins and more, and if you wait five&lt;br&gt;minutes there should also be a lot of leftover salad, pasta and rice&lt;br&gt;showing up. I recommend you grab some if you\'ve been struggling to feed&lt;br&gt;yourself. [...]','Blessings from the chapel at Frist','Sat, 10 Sep 2016 15:05:25 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=7807">Blessings from the chapel at Frist</a></span>
+</p></td>
+<td nowrap><p class="archive">Christopher Catalan &lt;ccatalan@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 10 Sep 2016 15:05:25 -0400</p></td>
+<td align="right" nowrap><p class="archive">43 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="4"></a><a href="#4">Brioche buns, chocolate in Lakeside</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Two bags of brioche buns, great for hamburgers or Sandwiches on the counter of the Lakeside Commons kitchen. Also feel free to take the container of chocolate on the counter next to the buns.&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','Brioche buns, chocolate in Lakeside','Mon, 5 Sep 2016 21:07:56 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=1979">Brioche buns, chocolate in Lakeside</a></span>
+</p></td>
+<td nowrap><p class="archive">Julia G. Reed &lt;jgreed@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Mon, 5 Sep 2016 21:07:56 +0000</p></td>
+<td align="right" nowrap><p class="archive">19 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="5"></a><a href="#5">Bubble tea in Campus Club living room!</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Taro &amp; original, from More Cafe.&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Bubble tea in Campus Club living room!','Sat, 17 Sep 2016 15:43:02 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=15992">Bubble tea in Campus Club living room!</a></span>
+</p></td>
+<td nowrap><p class="archive">Leila Clark &lt;lvclark@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 17 Sep 2016 15:43:02 -0400</p></td>
+<td align="right" nowrap><p class="archive">34 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="6"></a><a href="#6">Cookies and brownies at Carl Fields</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Cookies and other delicious pastries at Fields on the bench outside the multipurpose room!&lt;br&gt;&lt;br&gt;Sent from my iPhone&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','Cookies and brownies at Carl Fields','Wed, 7 Sep 2016 18:15:04 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=3933">Cookies and brownies at Carl Fields</a></span>
+</p></td>
+<td nowrap><p class="archive">Esther Maddox &lt;emaddox@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Wed, 7 Sep 2016 18:15:04 -0400</p></td>
+<td align="right" nowrap><p class="archive">21 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="7"></a><a href="#7">Free Chicken Quesadillas and Hummus and Pita in Frist Gallery</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Free Chicken Quesadillas and Hummus and Pita in Frist Gallery','Wed, 14 Sep 2016 20:17:53 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=13409">Free Chicken Quesadillas and Hummus and Pita in Frist Gallery</a></span>
+</p></td>
+<td nowrap><p class="archive">Brandon McGhee &lt;bmcghee@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Wed, 14 Sep 2016 20:17:53 -0400</p></td>
+<td align="right" nowrap><p class="archive">43276 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="8"></a><a href="#8">Free food and BBQ in front of campus club</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Free food and BBQ in front of campus club&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Free food and BBQ in front of campus club','Mon, 12 Sep 2016 18:29:13 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=10204">Free food and BBQ in front of campus club</a></span>
+</p></td>
+<td nowrap><p class="archive">Aleksandra Czulak &lt;aczulak@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Mon, 12 Sep 2016 18:29:13 -0400</p></td>
+<td align="right" nowrap><p class="archive">17461 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="9"></a><a href="#9">Free food in Friend lower atrium!</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Catering from iQuisine, lots extra, until 2:00pm today&lt;x-apple-data-detectors://0&gt;! Come on down!&lt;br&gt;&lt;br&gt;Sent from my iPhone&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Free food in Friend lower atrium!','Sat, 10 Sep 2016 17:34:50 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=7089">Free food in Friend lower atrium!</a></span>
+</p></td>
+<td nowrap><p class="archive">Anna M. Mostyn &lt;amostyn@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 10 Sep 2016 17:34:50 +0000</p></td>
+<td align="right" nowrap><p class="archive">54 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="10"></a><a href="#10">Free lunch in the CST StudioLab</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Fine Hall basement – B28&lt;br&gt;Come and get it!&lt;br&gt;&lt;br&gt;kind regards,&lt;br&gt;Laura','Free lunch in the CST StudioLab','Fri, 16 Sep 2016 17:14:02 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=14763">Free lunch in the CST StudioLab</a></span>
+</p></td>
+<td nowrap><p class="archive">Laura B. Sarubbi &lt;lsarubbi@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 16 Sep 2016 17:14:02 +0000</p></td>
+<td align="right" nowrap><p class="archive">366 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="11"></a><a href="#11">Free pizzas in campus club</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Free pizzas in Campus club (gluten free, cheese, pepperoni) on the first&lt;br&gt;floor!&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Free pizzas in campus club','Mon, 12 Sep 2016 16:44:07 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=9534">Free pizzas in campus club</a></span>
+</p></td>
+<td nowrap><p class="archive">Connie Zhu &lt;cmzhu@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Mon, 12 Sep 2016 16:44:07 -0400</p></td>
+<td align="right" nowrap><p class="archive">35 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="12"></a><a href="#12">Freefood at Friend Center</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('There\'s been a dinner for the new grad students participating in the English language program and rice, vegetables, salad, etc and desserts are still there&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','Freefood at Friend Center','Tue, 6 Sep 2016 23:28:28 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=2609">Freefood at Friend Center</a></span>
+</p></td>
+<td nowrap><p class="archive">Paula Perez-Rodriguez &lt;paulap@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Tue, 6 Sep 2016 23:28:28 +0000</p></td>
+<td align="right" nowrap><p class="archive">19 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="13"></a><a href="#13">Frist Campus Center</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('At multipurpose room, mini-sandwiches and salad for free. Also some desserts&lt;br&gt;&lt;br&gt;Right now!&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Frist Campus Center','Fri, 9 Sep 2016 16:10:55 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=5044">Frist Campus Center</a></span>
+</p></td>
+<td nowrap><p class="archive">Paula Perez-Rodriguez &lt;paulap@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 9 Sep 2016 16:10:55 +0000</p></td>
+<td align="right" nowrap><p class="archive">21 lines</p></td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Sorry, this should not have been given out!! Please DO NOT come eat this,&lt;br&gt;it\'s for a catered graduate orientation event and is not open to the public.&lt;br&gt;&lt;br&gt;On Fri, Sep 9, 2016 at 12:10 PM, Paula Perez-Rodriguez &lt;paulap@princeton.edu&lt;br&gt;&gt; wrote:&lt;br&gt;&lt;br&gt;&gt; At multipurpose room, mini-sandwiches and salad for free. Also some&lt;br&gt;&gt; desserts&lt;br&gt;&gt;&lt;br&gt;&gt; Right now!&lt;br&gt;&gt;&lt;br&gt;&gt; -----&lt;br&gt;&gt; You are receiving this email because you are subscribed to the Free Food&lt;br&gt;&gt; mailing list, operated by the USG. If you have questions or are having&lt;br&gt;&gt; difficulties with this listserv, please send an email to usg@princeton.edu&lt;br&gt; [...]','Re: Frist Campus Center','Fri, 9 Sep 2016 12:23:44 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=5726">Re: Frist Campus Center</a></span>
+</p></td>
+<td nowrap><p class="archive">Valeria Ibarcena &lt;ibarcena@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 9 Sep 2016 12:23:44 -0400</p></td>
+<td align="right" nowrap><p class="archive">101 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="14"></a><a href="#14">Hot dogs, hamburgers, pasta salad, sodas</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('In Blair/Joline courtyard!&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Hot dogs, hamburgers, pasta salad, sodas','Fri, 2 Sep 2016 14:06:10 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=84">Hot dogs, hamburgers, pasta salad, sodas</a></span>
+</p></td>
+<td nowrap><p class="archive">Miranda Rosen &lt;mirandar@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 2 Sep 2016 14:06:10 -0400</p></td>
+<td align="right" nowrap><p class="archive">34 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="15"></a><a href="#15">Italian food in the Fields Center</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('It\'s by the cafe/lounge area.&lt;br&gt;&lt;br&gt;------&lt;br&gt;Emilce Santana&lt;br&gt;Graduate Student, Sociology and Demography&lt;br&gt;Princeton University | Office of Population Research&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','Italian food in the Fields Center','Wed, 14 Sep 2016 23:48:44 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=12119">Italian food in the Fields Center</a></span>
+</p></td>
+<td nowrap><p class="archive">Emilce A. Santana &lt;emilceas@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Wed, 14 Sep 2016 23:48:44 +0000</p></td>
+<td align="right" nowrap><p class="archive">71 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="16"></a><a href="#16">Miscellaneous food and paper products</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Left over from community action. It\'s outside of Dillon, underneath the white tent.&lt;br&gt;&lt;br&gt;Sent from my iPhone&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','Miscellaneous food and paper products','Fri, 9 Sep 2016 15:29:41 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=6542">Miscellaneous food and paper products</a></span>
+</p></td>
+<td nowrap><p class="archive">Charlesa Redmond &lt;credmond@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 9 Sep 2016 15:29:41 -0400</p></td>
+<td align="right" nowrap><p class="archive">21 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="17"></a><a href="#17">Olives donuts in Whitman Library</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('There\'s more than a dozen!&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Olives donuts in Whitman Library','Sat, 3 Sep 2016 15:40:22 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=1354">Olives donuts in Whitman Library</a></span>
+</p></td>
+<td nowrap><p class="archive">Marisa Salazar &lt;marisams@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 3 Sep 2016 15:40:22 -0400</p></td>
+<td align="right" nowrap><p class="archive">34 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="18"></a><a href="#18">Pizza and Soda outside East Pyne 10</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Cheese and pepperoni pizzas, and an assortment of sodas outside East Pyne 010&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Pizza and Soda outside East Pyne 10','Wed, 14 Sep 2016 20:07:44 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=12743">Pizza and Soda outside East Pyne 10</a></span>
+</p></td>
+<td nowrap><p class="archive">Hammad Aslam &lt;maslam@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Wed, 14 Sep 2016 20:07:44 -0400</p></td>
+<td align="right" nowrap><p class="archive">19 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="19"></a><a href="#19">Pizza at campus club</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Pizza at campus club','Fri, 16 Sep 2016 20:32:27 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=15020">Pizza at campus club</a></span>
+</p></td>
+<td nowrap><p class="archive">My Bui &lt;mbui@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 16 Sep 2016 20:32:27 -0400</p></td>
+<td align="right" nowrap><p class="archive">34 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="20"></a><a href="#20">Pizza in Frist</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Cheese, Buffalo Chicken, and some pepperoni slices on the Frist 100 level.&lt;br&gt;Also, Diet Coke and Sprite. Check the table by the Welcome Desk and game&lt;br&gt;room!','Pizza in Frist','Sat, 10 Sep 2016 19:54:25 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=8331">Pizza in Frist</a></span>
+</p></td>
+<td nowrap><p class="archive">Nazik Elmekki &lt;nelmekki@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 10 Sep 2016 19:54:25 -0400</p></td>
+<td align="right" nowrap><p class="archive">56 lines</p></td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Gone already&lt;br&gt;On Sep 10, 2016 7:54 PM, &quot;Nazik Elmekki&quot; &lt;nelmekki@princeton.edu&gt; wrote:&lt;br&gt;&lt;br&gt;&gt; Cheese, Buffalo Chicken, and some pepperoni slices on the Frist 100 level.&lt;br&gt;&gt; Also, Diet Coke and Sprite. Check the table by the Welcome Desk and game&lt;br&gt;&gt; room!&lt;br&gt;&gt;&lt;br&gt;&gt; --&lt;br&gt;&gt; *Nazik M. Elmekki*&lt;br&gt;&gt; Princeton University \'18&lt;br&gt;&gt; Department of Molecular Biology&lt;br&gt;&gt; Programs in Global Health and Health Policy and Environmental Studies&lt;br&gt;&gt; *(937) 474-8075 &lt;%28937%29%20474-8075&gt; (c) | nelmekki@princeton.edu&lt;br&gt;&gt; &lt;nelmekki@princeton.edu&gt;*&lt;br&gt;&gt;&lt;br&gt;&gt;&lt;br&gt;&gt; ----- You are receiving this email because you are subscribed to the Free&lt;br&gt;&gt; Food mailing list, operated by [...]','Re: Pizza in Frist','Sat, 10 Sep 2016 20:10:54 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=8673">Re: Pizza in Frist</a></span>
+</p></td>
+<td nowrap><p class="archive">Stephen Craig &lt;sccraig@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 10 Sep 2016 20:10:54 -0400</p></td>
+<td align="right" nowrap><p class="archive">97 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="21"></a><a href="#21">Pizza in Wilson Common Room</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Pepperoni, cheese, and veggie. Also Coke and Sprite with cups.','Pizza in Wilson Common Room','Thu, 8 Sep 2016 17:49:04 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=4788">Pizza in Wilson Common Room</a></span>
+</p></td>
+<td nowrap><p class="archive">Nazik Elmekki &lt;nelmekki@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Thu, 8 Sep 2016 17:49:04 -0400</p></td>
+<td align="right" nowrap><p class="archive">52 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="22"></a><a href="#22">Pizza, Cookies, Salad and Snapple in Frist 307</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('eat up!&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Pizza, Cookies, Salad and Snapple in Frist 307','Tue, 13 Sep 2016 13:53:06 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=10860">Pizza, Cookies, Salad and Snapple in Frist 307</a></span>
+</p></td>
+<td nowrap><p class="archive">Adjoa Mante &lt;amante@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Tue, 13 Sep 2016 13:53:06 -0400</p></td>
+<td align="right" nowrap><p class="archive">34 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="23"></a><a href="#23">Rice and Chicken Biryani in Forbes Kitchen</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('On the second floor! plenty of rice&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu.&lt;br&gt;&lt;br&gt;In your message to the freefood listserv, please state what type of food it is, where it is, until when it will be available and how delicious it is. [...]','Rice and Chicken Biryani in Forbes Kitchen','Fri, 2 Sep 2016 21:57:34 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=715">Rice and Chicken Biryani in Forbes Kitchen</a></span>
+</p></td>
+<td nowrap><p class="archive">Adjoa Mante &lt;amante@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 2 Sep 2016 21:57:34 -0400</p></td>
+<td align="right" nowrap><p class="archive">34 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="24"></a><a href="#24">South Indian Food in Carl A. Fields!!</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('LOTS of free South Indian food in the Carl A. Fields Center, main hall!!&lt;br&gt;Very yummy, from the new Chennai Chimney!&lt;br&gt;&lt;br&gt;[image: Inline image 3][image: Inline image 1][image: Inline image 2]','South Indian Food in Carl A. Fields!!','Sat, 17 Sep 2016 13:40:17 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=15590">South Indian Food in Carl A. Fields!!</a></span>
+</p></td>
+<td nowrap><p class="archive">Chitra Marti &lt;cmarti@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Sat, 17 Sep 2016 13:40:17 -0400</p></td>
+<td align="right" nowrap><p class="archive">78113 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="25"></a><a href="#25">Vegetarian Lasagna</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="normalgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('There is a little veggie lasagna in the Women\'s Center lounge! Enjoy!&lt;br&gt;&lt;br&gt;Jordan Dixon&lt;br&gt;Program Coordinator&lt;br&gt;Princeton University Women*s Center&lt;br&gt;Pronouns: She, her, hers&lt;br&gt;&lt;br&gt;Princeton University&lt;br&gt;Frist Campus Center, Room 243&lt;br&gt;Princeton, NJ 08544&lt;br&gt;609.258.5565&lt;br&gt;women.princeton.edu&lt;br&gt;&lt;br&gt;-----&lt;br&gt;You are receiving this email because you are subscribed to the Free Food mailing list, operated by the USG. If you have questions or are having difficulties with this listserv, please send an email to usg@princeton.edu. [...]','Vegetarian Lasagna','Fri, 16 Sep 2016 00:25:35 +0000')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=14022">Vegetarian Lasagna</a></span>
+</p></td>
+<td nowrap><p class="archive">Jordan E. Dixon &lt;jd15@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Fri, 16 Sep 2016 00:25:35 +0000</p></td>
+<td align="right" nowrap><p class="archive">137 lines</p></td>
+</tr>
+
+
+<tr>
+<td colspan="4" class="headergroup" scope="row">
+<table cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/archives/images/b-thread.png" alt="New Thread" title="New Thread"></td><td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td><td><p>  <a name="26"></a><a href="#26">Wings and Tenders Frist 100 lemonade</a></p></td></tr></table>
+</td>
+</tr>
+
+
+<tr class="emphasizedgroup">
+<td scope="row"><p class="archive"><img src="/archives/images/b-blank.gif" width="15" height="1" alt="">
+<span onmouseover="showDesc('Wings, tenders, salsa, and sour cream on the Frist 100 level next to the TV&lt;br&gt;lounge. Plates provided.','Wings and Tenders Frist 100 lemonade','Wed, 7 Sep 2016 21:24:02 -0400')" onmouseout="hideDesc()"><a href="/cgi-bin/wa?A2=ind1609&L=freefood&F=&S=&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu&P=4481">Wings and Tenders Frist 100 lemonade</a></span>
+</p></td>
+<td nowrap><p class="archive">Nazik Elmekki &lt;nelmekki@PRINCETON.EDU&gt;</p></td>
+<td nowrap><p class="archive">Wed, 7 Sep 2016 21:24:02 -0400</p></td>
+<td align="right" nowrap><p class="archive">53 lines</p></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</td>
+<td width="20%" valign="top">
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr><td class="blogtop"><h4><LABEL for="Search Archives">Search Archives</LABEL></h4></td></tr>
+<tr><td class="blogbox">
+<p class="blogsmall"><a href="/cgi-bin/wa?REPORT&z=4&1=freefood&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Advanced Options</a></p>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td align="center" nowrap>
+<form action="/cgi-bin/wa" method="post">
+<table cellpadding="1" cellspacing="0" border="0">
+<tr><td>
+<input type="hidden" name="REPORT">
+<input type="hidden" name="z" value="4">
+<input type="hidden" name="1" value="freefood">
+<input type="hidden" name="L" value="freefood">
+<input name="q" value="" size="18" class="search" id="Search Archives">
+<input type="hidden" name="J" value="1">
+<input type="hidden" name="0" value="S">
+<input type="hidden" name="9" value="A">
+<input type="hidden" name="d" value="No Match;Match;Matches">
+<input type="hidden" name="_charset_">
+<input type="hidden" name="X" value="2BE54FB0F41980A98B">
+<input type="hidden" name="Y" value="chay@princeton.edu">
+
+</td><td>
+<input type="submit" value="Search">
+</td></tr>
+</table>
+</form>
+</td></tr>
+</table>
+</td></tr>
+</table>
+<br>
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr><td class="blogtop"><h4>Options</h4></td></tr>
+<tr><td class="blogbox">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><a href="/cgi-bin/wa?RESET-COOKIE&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-logout.png" alt="Log Out" title="Log Out" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?RESET-COOKIE&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Log Out</a></p></td>
+</tr>
+<tr>
+<td><a href="/cgi-bin/wa?LOGIN1&c=1&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-password.png" alt="Change Password" title="Change Password" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?LOGIN1&c=1&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Change Password</a></p></td>
+</tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr>
+<td><a href="/cgi-bin/wa?REPORT&z=4&1=freefood&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-mglass.png" alt="Search Archives" title="Search Archives" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?REPORT&z=4&1=freefood&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Search Archives</a></p></td>
+</tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr>
+<td><a href="/cgi-bin/wa?SUBED1=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-join.png" alt="Subscribe or Unsubscribe" title="Subscribe or Unsubscribe" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?SUBED1=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Subscribe or Unsubscribe</a></p></td>
+</tr>
+<tr>
+<td><a href="/cgi-bin/wa?P1&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-post.png" alt="Post New Message" title="Post New Message" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?P1&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Post New Message</a></p></td>
+</tr>
+<tr>
+<td><a href="/cgi-bin/wa?T1&L=freefood&tab=1&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-temp.png" alt="Newsletter Templates" title="Newsletter Templates" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?T1&L=freefood&tab=1&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Newsletter Templates</a></p></td>
+</tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr>
+<td><a href="/cgi-bin/wa?PREF&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu"><img src="/archives/images/b-prefs.png" alt="Preferences" title="Preferences" border="0"></a></td>
+<td><img src="/archives/images/b-blank.gif" alt="" width="5" height="1"></td>
+<td width="100%" nowrap><p class="bloghead"><a href="/cgi-bin/wa?PREF&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">Preferences</a></p></td>
+</tr>
+</table>
+</td></tr>
+</table>
+<br>
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr><td class="blogtop"><h4>Archives</h4></td></tr>
+<tr><td class="blogbox">
+<a href="/cgi-bin/wa?A1=ind1609&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">September 2016</a><br><a href="/cgi-bin/wa?A1=ind1608&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">August 2016</a><br><a href="/cgi-bin/wa?A1=ind1607&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">July 2016</a><br><a href="/cgi-bin/wa?A1=ind1606&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">June 2016</a><br><a href="/cgi-bin/wa?A1=ind1605&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">May 2016</a><br><a href="/cgi-bin/wa?A1=ind1604&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">April 2016</a><br><a href="/cgi-bin/wa?A1=ind1603&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">March 2016</a><br><a href="/cgi-bin/wa?A1=ind1602&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">February 2016</a><br><a href="/cgi-bin/wa?A1=ind1601&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">January 2016</a><br><a href="/cgi-bin/wa?A1=ind1512&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">December 2015</a><br><a href="/cgi-bin/wa?A1=ind1511&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">November 2015</a><br><a href="/cgi-bin/wa?A1=ind1510&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">October 2015</a><br><a href="/cgi-bin/wa?A1=ind1509&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">September 2015</a><br><a href="/cgi-bin/wa?A1=ind1508&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">August 2015</a><br><a href="/cgi-bin/wa?A1=ind1507&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">July 2015</a><br><a href="/cgi-bin/wa?A1=ind1506&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">June 2015</a><br><a href="/cgi-bin/wa?A1=ind1505&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">May 2015</a><br><a href="/cgi-bin/wa?A1=ind1504&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">April 2015</a><br><a href="/cgi-bin/wa?A1=ind1503&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">March 2015</a><br><a href="/cgi-bin/wa?A1=ind1502&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">February 2015</a><br><a href="/cgi-bin/wa?A1=ind1501&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">January 2015</a><br><a href="/cgi-bin/wa?A1=ind1412&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">December 2014</a><br><a href="/cgi-bin/wa?A1=ind1411&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">November 2014</a><br><a href="/cgi-bin/wa?A1=ind1410&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">October 2014</a><br><a href="/cgi-bin/wa?A1=ind1409&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">September 2014</a><br><a href="/cgi-bin/wa?A1=ind1408&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">August 2014</a><br><a href="/cgi-bin/wa?A1=ind1406&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">June 2014</a><br><a href="/cgi-bin/wa?A1=ind1405&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">May 2014</a><br><a href="/cgi-bin/wa?A1=ind1404&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">April 2014</a><br><a href="/cgi-bin/wa?A1=ind1403&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">March 2014</a><br><a href="/cgi-bin/wa?A1=ind1402&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">February 2014</a><br><a href="/cgi-bin/wa?A1=ind1401&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">January 2014</a><br><a href="/cgi-bin/wa?A1=ind1312&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">December 2013</a><br><a href="/cgi-bin/wa?A1=ind1311&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">November 2013</a><br><a href="/cgi-bin/wa?A1=ind1310&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">October 2013</a><br><a href="/cgi-bin/wa?A1=ind1309&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">September 2013</a><br><a href="/cgi-bin/wa?A1=ind1308&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">August 2013</a><br><a href="/cgi-bin/wa?A1=ind1307&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">July 2013</a><br><a href="/cgi-bin/wa?A1=ind1306&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">June 2013</a><br><a href="/cgi-bin/wa?A1=ind1305&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">May 2013</a><br><a href="/cgi-bin/wa?A1=ind1304&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">April 2013</a><br><a href="/cgi-bin/wa?A1=ind1303&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">March 2013</a><br><a href="/cgi-bin/wa?A1=ind1302&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">February 2013</a><br><a href="/cgi-bin/wa?A1=ind1301&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">January 2013</a><br><a href="/cgi-bin/wa?A1=ind1212&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">December 2012</a><br><a href="/cgi-bin/wa?A1=ind1211&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">November 2012</a><br><a href="/cgi-bin/wa?A1=ind1210&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">October 2012</a><br><a href="/cgi-bin/wa?A1=ind1209&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">September 2012</a><br><a href="/cgi-bin/wa?A1=ind1208&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">August 2012</a><br><a href="/cgi-bin/wa?A1=ind1207&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">July 2012</a><br><a href="/cgi-bin/wa?A1=ind1206&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">June 2012</a><br><a href="/cgi-bin/wa?A1=ind1205&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">May 2012</a><br><a href="/cgi-bin/wa?A1=ind1204&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">April 2012</a><br><a href="/cgi-bin/wa?A1=ind1203&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">March 2012</a><br>
+</td></tr>
+</table>
+</td></tr></table>
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+<tr><td align="right">
+<p align="right">
+<a style='background-color: #99ccff; border: 1px outset; font-weight: bold; color: white; font-size: 12px; padding: 0 0.4em; text-decoration: none; font-family: sans-serif;' href="/cgi-bin/wa?RSS&L=freefood&v=ATOM1.0">ATOM</a>
+<a style='background-color: #f80; border: 1px outset; font-weight: bold; color: white; font-size: 12px; padding: 0 0.4em; text-decoration: none; font-family: sans-serif;' href="/cgi-bin/wa?RSS&L=freefood&v=1.0">RSS1</a>
+<a style='background-color: #f80; border: 1px outset; font-weight: bold; color: white; font-size: 12px; padding: 0 0.4em; text-decoration: none; font-family: sans-serif;' href="/cgi-bin/wa?RSS&L=freefood&v=2.0">RSS2</a>
+</p>
+</td></tr>
+</table>
+</td></tr></table>
+
+<div id="listdesc" style="position:absolute; left:100px; top:100px; z-index:999; visibility: hidden"></div>
+<br><br>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="left"><p><a href="/cgi-bin/wa?INDEX&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu">LISTS.PRINCETON.EDU</a></p></td>
+<td align="right"><p>
+<a href="http://www.lsoft.com/catalist.html" target="_blank"><img src="/archives/images/b-catalist.gif" alt="CataList Email List Search" title="CataList Email List Search" border="0"></a>
+<a href="http://www.lsoft.com/products/listserv-powered.asp" target="_blank"><img src="/archives/images/b-lpowered.gif" alt="Powered by the LISTSERV Email List Manager" title="Powered by the LISTSERV Email List Manager" border="0"></a>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
