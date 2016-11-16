@@ -39,6 +39,7 @@ Brown, 40.346374, -74.657819
 Prospect House, 40.347079, -74.656561
 Woolworth, 40.347284, -74.655813
 Murray-Dodge, 40.347862, -74.657860
+Murray Dodge, 40.347862, -74.657860
 Whitman Dining, 40.344197, -74.657645
 Forbes, 40.341977, -74.661180
 Forbes Dining, 40.341713, -74.660998

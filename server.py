@@ -24,7 +24,7 @@ class FreeFoodServer(flask_restful.Resource):
         listings = food.get_all()
         print 'Found', len(listings), 'listings'
         for listing in listings:
-            building_name = locations.parse_location(listing['title'] + listing['body'])
+            building_name = locations.parse_building_name(listing['title'] + listing['body'])
             lat, lng = locations.get_lat_lng(building_name)
             listing['building_name'] = building_name
             listing['lat'] = lat
