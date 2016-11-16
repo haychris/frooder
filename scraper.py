@@ -1,11 +1,9 @@
 import curl
 import re
 
-SEPTEMBER=1609
-
 class FreeFoodScraper(object):
-    def __init__(self):
-        url = "https://lists.princeton.edu/cgi-bin/wa?A1=ind{month_num}&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu".format(month_num=SEPTEMBER)
+    def __init__(self, month_id):
+        url = "https://lists.princeton.edu/cgi-bin/wa?A1=ind{month_id}&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu".format(month_id=month_id)
         curler = curl.Curl(url)
         body = curler.get()
         emails = re.findall("""<span onmouseover="showDesc\('.*?</span>""", body)

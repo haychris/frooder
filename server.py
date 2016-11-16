@@ -1,16 +1,25 @@
 from flask import Flask
-from flask.ext import restful
+import flask_restful
 from scraper import FreeFoodScraper
 from location_service import PrincetonBuildingLatLng
 from dateutil import parser
 
+import datetime
+
+
 locations = PrincetonBuildingLatLng()
 app = Flask(__name__)
-api = restful.Api(app)
+api = flask_restful.Api(app)
 
-class FreeFoodServer(restful.Resource):
-    def get(self):
-        food = FreeFoodScraper()
+class FreeFoodServer(flask_restful.Resource):
+    def get(self, month_id=None):
+        if month_id is None:
+            now = datetime.datetime.now()
+            month = str(now.month)
+            month = month if len(month) == 2 else "0"+month
+            year = str(now.year % 2000)
+            month_id = year + month
+        food = FreeFoodScraper(month_id)
 
         listings = food.get_all()
         print 'Found', len(listings), 'listings'
@@ -23,7 +32,7 @@ class FreeFoodServer(restful.Resource):
 
         return sorted(listings, key=lambda x: parser.parse(x['time']), reverse=True)
 
-api.add_resource(FreeFoodServer, '/')
+api.add_resource(FreeFoodServer, '/', '/<month_id>')
 
 if __name__ == '__main__':
     app.run(debug=True)
