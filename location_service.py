@@ -1,8 +1,12 @@
 from collections import defaultdict
 
+
 class PrincetonBuildingLatLng(object):
     LOCATION_DESIGNATOR_WORDS = ['in', 'at', 'near', 'behind', 'outside']
-    def __init__(self, look_ahead=5, reference_file_name='princeton_building_locations.txt'):
+
+    def __init__(self,
+                 look_ahead=5,
+                 reference_file_name='princeton_building_locations.txt'):
         self.look_ahead = look_ahead
         f = open(reference_file_name)
 
@@ -26,12 +30,13 @@ class PrincetonBuildingLatLng(object):
             while spot > -1:
                 # find the self.look_ahead # of words after spot, and check if
                 # any are a part of a building location
-                lookahead_words = std_text[spot+len(target)-1:].split()[:self.look_ahead]
+                lookahead_words = std_text[spot + len(target) - 1:].split(
+                )[:self.look_ahead]
                 for word in lookahead_words:
                     for building_name in self.name_to_latlng.keys():
                         if word in building_name.split():
                             candidates[building_name] += 1
-                spot = std_text.find(target, spot+1)
+                spot = std_text.find(target, spot + 1)
 
         # return the building with the most word matches
         if candidates:
