@@ -1,9 +1,11 @@
 import curl
 import re
+from HTMLParser import HTMLParser
 
 
 class FreeFoodScraper(object):
     def __init__(self, month_id):
+        self.html_parser = HTMLParser()
         url = "https://lists.princeton.edu/cgi-bin/wa?A1=ind{month_id}&L=freefood&X=2BE54FB0F41980A98B&Y=chay%40princeton.edu".format(
             month_id=month_id)
         curler = curl.Curl(url)
@@ -35,7 +37,10 @@ class FreeFoodScraper(object):
                 print 'ERROR\n'
 
     def html_cleaner(self, txt):
-        return txt.replace('&lt;br&gt;', '\n')
+        escaped = self.html_parser.unescape(txt.decode('utf8'))
+        replaced = escaped.replace('<br>', '\n')
+        stripped = replaced.rstrip().lstrip()
+        return stripped
 
     def get_all(self):
         return self.email_list
