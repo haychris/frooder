@@ -2,12 +2,14 @@ from flask import Flask
 import flask_restful
 from scraper import FreeFoodScraper
 from location_service import PrincetonBuildingLatLng
+from food_service import CuisineParser
 from dateutil import parser
 
 import datetime
 
 
 locations = PrincetonBuildingLatLng()
+cuisine = CuisineParser()
 app = Flask(__name__)
 api = flask_restful.Api(app)
 
@@ -29,6 +31,10 @@ class FreeFoodServer(flask_restful.Resource):
             listing['building_name'] = building_name
             listing['lat'] = lat
             listing['lng'] = lng
+
+            listing['food_tags'] = cuisine.parse_food_tags(listing['title'] + ' ' + listing['body'])
+
+
 
         return sorted(listings, key=lambda x: parser.parse(x['time']), reverse=True)
 
